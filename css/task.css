@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Cookie&display=swap');
+
+body{
+    background-color: rgb(237, 195, 160);
+}
+
+.Link{
+    width: 300px;
+}
+
+.Header{
+    font-family: 'Cookie', cursive;
+    font-size:  4rem;
+    color: rgb(96, 27, 19);
+    text-align: center;
+}
+
+.img{
+    width: 400px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.IngredientsH{
+    font-family: 'Cookie', cursive;
+    font-size:  3rem;
+    color: rgb(96, 27, 19);
+    text-align: center;
+}
+
+.Ingredients{
+    width: 80%;
+    margin: 0 auto;
+}
+
+.Ingredients-Table{
+    margin: 0 auto;
+    color: rgb(96, 27, 19);
+}
+
+.InstructionsH{
+    font-family: 'Cookie', cursive;
+    font-size:  3rem;
+    color: rgb(96, 27, 19);
+}
+
+.Instructions{
+    width: 97%;
+    margin: 0 auto;
+    color: rgb(96, 27, 19);
+}
+
+.Footer{
+    color: rgb(96, 27, 19);
+}
+
+.HR{
+    color: black;
+}
